@@ -1,0 +1,111 @@
+{
+  "info": {
+    "id": "140439",
+    "name": "Jay Gopinath Khaman And Locho",
+    "cloudinaryImageId": "vsybnlisuw5txzqjjpmz",
+    "locality": "Harianth",
+    "areaName": "City Light Town",
+    "costForTwo": "₹250 for two",
+    "cuisines": ["Gujarati", "Snacks"],
+    "avgRating": 4,
+    "veg": true,
+    "feeDetails": {
+      "restaurantId": "140439",
+      "fees": [
+        {
+          "name": "BASE_DISTANCE",
+          "fee": 2400
+        },
+        {
+          "name": "BASE_TIME"
+        },
+        {
+          "name": "ANCILLARY_SURGE_FEE"
+        }
+      ],
+      "totalFee": 2400
+    },
+    "parentId": "110062",
+    "avgRatingString": "4.0",
+    "totalRatingsString": "1K+",
+    "sla": {
+      "deliveryTime": 18,
+      "lastMileTravel": 1.7,
+      "serviceability": "SERVICEABLE",
+      "slaString": "18 mins",
+      "lastMileTravelString": "1.7 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-12-11 19:00:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+          "description": "OnlyOnSwiggy"
+        },
+        {
+          "imageId": "v1695133679/badges/Pure_Veg111.png",
+          "description": "pureveg"
+        }
+      ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "description": "OnlyOnSwiggy",
+                "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+              }
+            },
+            {
+              "attributes": {
+                "description": "pureveg",
+                "imageId": "v1695133679/badges/Pure_Veg111.png"
+              }
+            }
+          ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "₹125 OFF",
+      "subHeader": "ABOVE ₹349",
+      "discountTag": "FLAT DEAL"
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {
+    "context": "seo-data-f072121c-dd54-48f4-8e79-9a74447d9bd6"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/jay-gopinath-khaman-and-locho-harianth-city-light-town-surat-140439",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

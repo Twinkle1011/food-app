@@ -1,0 +1,1807 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "pageOffset": {
+      "nextOffset": "COVCELQ4KIDgmvGOyboPMKcTOAE=",
+      "widgetOffset": {
+        "NewListingView_Topical_Fullbleed": "",
+        "NewListingView_category_bar_chicletranking_TwoRows": "",
+        "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+        "Restaurant_Group_WebView_SEO_PB_Theme": "",
+        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "10",
+        "inlineFacetFilter": "",
+        "restaurantCountWidget": ""
+      }
+    },
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "header": {
+              "title": "Top restaurant chains in Surat",
+              "action": {},
+              "headerStyling": {
+                "padding": {
+                  "left": 16,
+                  "top": 28,
+                  "bottom": 18
+                }
+              }
+            },
+            "layout": {
+              "rows": 1,
+              "columns": 20,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 32,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 16,
+                  "right": 12,
+                  "bottom": 12
+                }
+              },
+              "scrollBar": {
+                "scrollThumbColor": "#E46D47",
+                "scrollTrackColor": "#02060C",
+                "width": 54,
+                "height": 4,
+                "scrollStyling": {
+                  "padding": {
+                    "top": 6,
+                    "bottom": 24
+                  }
+                }
+              },
+              "widgetTheme": {
+                "defaultMode": {
+                  "backgroundColour": "#1B3028",
+                  "theme": "THEME_TYPE_DARK"
+                },
+                "darkMode": {
+                  "backgroundColour": "#1B3028",
+                  "theme": "THEME_TYPE_DARK"
+                }
+              }
+            },
+            "id": "top_brands_for_you",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                "restaurants": [
+                  {
+                    "info": {
+                      "id": "140439",
+                      "name": "Jay Gopinath Khaman And Locho",
+                      "cloudinaryImageId": "vsybnlisuw5txzqjjpmz",
+                      "locality": "Harianth",
+                      "areaName": "City Light Town",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Gujarati", "Snacks"],
+                      "avgRating": 4,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "140439",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "110062",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 18,
+                        "lastMileTravel": 1.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "18 mins",
+                        "lastMileTravelString": "1.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 19:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                          },
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "OnlyOnSwiggy",
+                                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                }
+                              },
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹349",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/jay-gopinath-khaman-and-locho-harianth-city-light-town-surat-140439",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "152983",
+                      "name": "Jani Locho",
+                      "cloudinaryImageId": "nni5t4imm0m5odzlqav6",
+                      "locality": "Navyug College Road",
+                      "areaName": "Adajan Patiya",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Gujarati", "Snacks"],
+                      "avgRating": 4.3,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "152983",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4300
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 4300
+                      },
+                      "parentId": "22262",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 5.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "27 mins",
+                        "lastMileTravelString": "5.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 19:15:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹150 OFF",
+                        "subHeader": "ABOVE ₹349",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/jani-locho-navyug-college-road-adajan-patiya-surat-152983",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "84562",
+                      "name": "G Dada",
+                      "cloudinaryImageId": "8ccc4ea2e0b6137b802c0a886fc8b3cb",
+                      "locality": "Anand Mahal Road",
+                      "areaName": "Adajan Gam, Main Branch- Since 1900",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Gujarati",
+                        "North Indian",
+                        "Snacks",
+                        "Street Food"
+                      ],
+                      "avgRating": 4.1,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "84562",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3900
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 3900
+                      },
+                      "parentId": "419400",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "29 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "30% OFF",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/g-dada-anand-mahal-road-adajan-gam-main-branch-since-1900-surat-84562",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "96048",
+                      "name": "Shree Sai Snacks And Fast Food",
+                      "cloudinaryImageId": "dbqj3eqdlxerbgwbknij",
+                      "locality": "Palanpur Road",
+                      "areaName": "Pal Gam",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "South Indian",
+                        "Burgers",
+                        "Ice Cream",
+                        "Pizzas"
+                      ],
+                      "avgRating": 4.5,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "96048",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3900
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 3900
+                      },
+                      "parentId": "185558",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 19,
+                        "lastMileTravel": 4.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "19 mins",
+                        "lastMileTravelString": "4.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 22:50:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "OnlyOnSwiggy",
+                                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/shree-sai-snacks-and-fast-food-palanpur-road-pal-gam-surat-96048",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "424877",
+                      "name": "Dilliwale Pahelvanjee'S Cholle Bhature",
+                      "cloudinaryImageId": "tajbfx84hahoum5w9niz",
+                      "locality": "Moti Begumwadi",
+                      "areaName": "New Textile Market",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["North Indian", "Street Food"],
+                      "avgRating": 4.4,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "424877",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 5400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 5400
+                      },
+                      "parentId": "289667",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 28,
+                        "lastMileTravel": 7.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "28 mins",
+                        "lastMileTravelString": "7.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 18:15:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/dilliwale-pahelvanjees-cholle-bhature-moti-begumwadi-new-textile-market-surat-424877",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "175281",
+                      "name": "Jalaram Locho & Khaman",
+                      "cloudinaryImageId": "ilmplqyvasqq0igkmobz",
+                      "locality": "Gotalawadi",
+                      "areaName": "Katargam",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Gujarati",
+                        "North Indian",
+                        "Indian",
+                        "Sweets"
+                      ],
+                      "avgRating": 4,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "175281",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 5800
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 5800
+                      },
+                      "parentId": "230558",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 28,
+                        "lastMileTravel": 8.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "28 mins",
+                        "lastMileTravelString": "8.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 19:45:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹175 OFF",
+                        "subHeader": "ABOVE ₹349",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/jalaram-locho-and-khaman-gotalawadi-katargam-surat-175281",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "85749",
+                      "name": "Jani Farsan House",
+                      "cloudinaryImageId": "y0vfpjr1ej6jpehbsgzu",
+                      "locality": "Canal Road",
+                      "areaName": "Vesu",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Gujarati", "Indian"],
+                      "avgRating": 4.4,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "85749",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3900
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 3900
+                      },
+                      "parentId": "109597",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 22,
+                        "lastMileTravel": 4.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "22 mins",
+                        "lastMileTravelString": "4.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 19:30:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/jani-farsan-house-canal-road-vesu-surat-85749",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "66593",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                      "locality": "Rahul Raj Mall",
+                      "areaName": "Piplod",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": ["Burgers", "American"],
+                      "avgRating": 4.4,
+                      "feeDetails": {
+                        "restaurantId": "66593",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "166",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 19,
+                        "lastMileTravel": 2.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "19 mins",
+                        "lastMileTravelString": "2.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 03:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹129"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/burger-king-rahul-raj-mall-piplod-surat-66593",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "70119",
+                      "name": "McDonald's",
+                      "cloudinaryImageId": "bb7ae131544c7d37e10fc5faf76f09d6",
+                      "locality": "Ghod Dhod Road",
+                      "areaName": "City Light Town",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+                      "avgRating": 4.3,
+                      "feeDetails": {
+                        "restaurantId": "70119",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2200
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2200
+                      },
+                      "parentId": "630",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 16,
+                        "lastMileTravel": 1.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "16 mins",
+                        "lastMileTravelString": "1.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 04:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "ABOVE ₹1000",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/mcdonalds-ghod-dhod-road-city-light-town-surat-70119",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "66085",
+                      "name": "Subway",
+                      "cloudinaryImageId": "1ace5fa65eff3e1223feb696c956b38b",
+                      "locality": "Athwalines",
+                      "areaName": "Piplod",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": [
+                        "Healthy Food",
+                        "Salads",
+                        "Snacks",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4,
+                      "feeDetails": {
+                        "restaurantId": "66085",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "2",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 14,
+                        "lastMileTravel": 1.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "14 mins",
+                        "lastMileTravelString": "1.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 03:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/subway-athwalines-piplod-surat-66085",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "120317",
+                      "name": "Maakhan Bhog",
+                      "cloudinaryImageId": "9715c84a0fce19d16c8f68a39c891bd7",
+                      "locality": "Athwa",
+                      "areaName": "City Light Town",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": ["Desserts", "North Indian", "Street Food"],
+                      "avgRating": 4.4,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "120317",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2300
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2300
+                      },
+                      "parentId": "6999",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 16,
+                        "lastMileTravel": 2.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "16 mins",
+                        "lastMileTravelString": "2.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 21:30:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/maakhan-bhog-athwa-city-light-town-surat-120317",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "158293",
+                      "name": "Madhi Ni Khamni",
+                      "cloudinaryImageId": "ncdi2acbg6qfzeknrnug",
+                      "locality": "Rampura Main Road",
+                      "areaName": "Haripura",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Fast Food", "Snacks"],
+                      "avgRating": 4,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "158293",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 5300
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 5300
+                      },
+                      "parentId": "8349",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 30,
+                        "lastMileTravel": 7.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30 mins",
+                        "lastMileTravelString": "7.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 17:30:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                          },
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "OnlyOnSwiggy",
+                                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                }
+                              },
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹175 OFF",
+                        "subHeader": "ABOVE ₹399",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/madhi-ni-khamni-rampura-main-road-haripura-surat-158293",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "217306",
+                      "name": "Hotel Priya",
+                      "cloudinaryImageId": "idfokjhfmaftfpmqfmmq",
+                      "locality": "Atlanta Shopping Mall",
+                      "areaName": "Althan Bhatar",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Punjabi",
+                        "South Indian",
+                        "Biryani",
+                        "Chinese"
+                      ],
+                      "avgRating": 4.2,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "217306",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4300
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 4300
+                      },
+                      "parentId": "21719",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 24,
+                        "lastMileTravel": 5.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "24 mins",
+                        "lastMileTravelString": "5.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 14:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹175 OFF",
+                        "subHeader": "ABOVE ₹349",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/hotel-priya-atlanta-shopping-mall-althan-bhatar-surat-217306",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "123768",
+                      "name": "Radhe Dhokla",
+                      "cloudinaryImageId": "27947ad42435b18fc7d1f127e841748a",
+                      "locality": "Athwa",
+                      "areaName": "City Light Town",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Chinese", "North Indian", "Biryani"],
+                      "avgRating": 4.2,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "123768",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "4921",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 16,
+                        "lastMileTravel": 1.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "16 mins",
+                        "lastMileTravelString": "1.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/radhe-dhokla-athwa-city-light-town-surat-123768",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "194418",
+                      "name": "McCafe by McDonald's",
+                      "cloudinaryImageId": "xf4jyqqmqri1u3vqdf2m",
+                      "locality": "City Light Town",
+                      "areaName": "City Light",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["American", "Beverages", "Desserts"],
+                      "avgRating": 4.6,
+                      "feeDetails": {
+                        "restaurantId": "194418",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "8263",
+                      "avgRatingString": "4.6",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 20,
+                        "lastMileTravel": 1.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "20 mins",
+                        "lastMileTravelString": "1.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 04:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/mccafe-by-mcdonalds-town-city-light-surat-194418",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "395315",
+                      "name": "McDonald's Gourmet Burger Collection",
+                      "cloudinaryImageId": "u9ywfu7faicj2hborcmf",
+                      "locality": "Ghod Dhod Road",
+                      "areaName": "Athwa",
+                      "costForTwo": "₹500 for two",
+                      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+                      "avgRating": 3.7,
+                      "feeDetails": {
+                        "restaurantId": "395315",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "10761",
+                      "avgRatingString": "3.7",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 17,
+                        "lastMileTravel": 1.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "17 mins",
+                        "lastMileTravelString": "1.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 04:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/mcdonalds-gourmet-burger-collection-ghod-dhod-road-athwa-surat-395315",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "301186",
+                      "name": "PVR Cafe",
+                      "cloudinaryImageId": "m5kout6ypyjttj8cggwh",
+                      "locality": "Rahul Raj Mall",
+                      "areaName": "Piplod",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": ["Snacks", "Fast Food", "Beverages"],
+                      "avgRating": 3.6,
+                      "feeDetails": {
+                        "restaurantId": "301186",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "11664",
+                      "avgRatingString": "3.6",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 24,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "24 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-12 02:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/pvr-cafe-rahul-raj-mall-piplod-surat-301186",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "263785",
+                      "name": "Pure Veg Meals by Lunchbox",
+                      "cloudinaryImageId": "a1jxb6gx7ecuncyehpln",
+                      "locality": "Bhagyalaxmi Society, Dumas Road",
+                      "areaName": "Piplod",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 3.8,
+                      "veg": false,
+                      "feeDetails": {
+                        "restaurantId": "263785",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "21938",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 24,
+                        "lastMileTravel": 1.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "24 mins",
+                        "lastMileTravelString": "1.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "40% OFF",
+                        "subHeader": "UPTO ₹80"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/pure-veg-meals-by-lunchbox-bhagyalaxmi-society-dumas-road-piplod-surat-263785",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "566362",
+                      "name": "Faasos' Signature Wraps & Rolls",
+                      "cloudinaryImageId": "c583ca6ce40b426797a78ae2ac91f2ec",
+                      "locality": "Bhagyalaxmi Society, Dumas Road",
+                      "areaName": "Piplod",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": [
+                        "Fast Food",
+                        "Snacks",
+                        "North Indian",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "566362",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2400
+                      },
+                      "parentId": "340366",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 26,
+                        "lastMileTravel": 1.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "26 mins",
+                        "lastMileTravelString": "1.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/faasos-signature-wraps-and-rolls-bhagyalaxmi-society-dumas-road-piplod-surat-566362",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "236434",
+                      "name": "Starbucks Coffee",
+                      "cloudinaryImageId": "0c958153eeb436db6d515ca36e47e8a4",
+                      "locality": "Athwalines",
+                      "areaName": "City Light Town",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Beverages",
+                        "Cafe",
+                        "Snacks",
+                        "Desserts",
+                        "Bakery",
+                        "Ice Cream"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "236434",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2100
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 2100
+                      },
+                      "parentId": "195515",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 16,
+                        "lastMileTravel": 1.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "16 mins",
+                        "lastMileTravelString": "1.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-12-11 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "ABOVE ₹900",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {}
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/starbucks-coffee-athwalines-city-light-town-surat-236434",
+                      "type": "WEBLINK"
+                    }
+                  }
+                ],
+                "theme": "Restaurant_Group_WebView_SEO_PB_Theme",
+                "widgetType": "WIDGET_TYPE_POPULAR_BRANDS",
+                "style": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.41111112,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_DEVICE_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.7027027,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                  },
+                  "layoutAlignment": "LAYOUT_ALIGNMENT_LEFT"
+                },
+                "collectionId": "84124"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "cacheExpiryTime": 240,
+    "nextFetch": 1
+  },
+  "tid": "9080b4ca-c0d3-4ed9-8416-8de85b2a383d",
+  "sid": "aya54253-e184-4f8a-85ac-02ee7c9dc2e2",
+  "deviceId": "8fbb36d2-ce8b-0ffb-ee29-55efa818236d",
+  "csrfToken": "qCwfQOjAf9O4-t8URTy1fPu96DBBFvITunEZ_a4k"
+}

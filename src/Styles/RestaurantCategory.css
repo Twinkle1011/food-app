@@ -1,0 +1,15 @@
+.restaurant-category {
+  width: 50%;
+  margin: auto;
+  padding: 5px;
+  align-items: center;
+}
+
+.restaurant-title {
+  background-color: rgb(227, 229, 230);
+  border-radius: 5px;
+  padding: 10px;
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}

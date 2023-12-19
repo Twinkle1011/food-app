@@ -1,0 +1,29 @@
+.item-cards {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 2px;
+  background-color: rgb(250, 251, 252);
+
+  border-bottom: 1px solid rgb(148, 145, 145);
+}
+.item-image {
+  width: 130px;
+  height: 130px;
+  border-radius: 5px;
+  margin: 0px 5px;
+}
+
+.item-description {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.item-heading {
+  font-size: medium;
+}
+.item-description > p {
+  font-size: small;
+  color: rgb(110, 108, 108);
+}

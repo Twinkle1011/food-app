@@ -1,0 +1,22 @@
+.cart-container {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.cart-heading {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.item-card {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+.clear-btn {
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
